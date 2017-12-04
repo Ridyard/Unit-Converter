@@ -1,5 +1,9 @@
 # Unit-Converter
 
-Test 1
+A simple test program:
 
-Alex.
+Convert from cm > inch 
+
+&& 
+
+inch >cm.
