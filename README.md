@@ -1,9 +1,5 @@
 # Unit-Converter
 
-A simple test program:
+A simple Java test program:
 
-Convert from cm > inch 
-
-&& 
-
-inch >cm.
+Convert from (cm > inch) && (inch >cm).
